@@ -22,5 +22,3 @@ A modern, interactive Tic Tac Toe game built with HTML, CSS, and JavaScript.
 - Glowing symbols (X and O)
 - Dynamic status indicator
 - Player info cards with active state
-
-## File Structure
